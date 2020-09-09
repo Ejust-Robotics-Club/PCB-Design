@@ -2,7 +2,7 @@
 # Welcome to Robotics Club Family
 **Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
-## Course Describtion
+## Course Description
 As you know in our electronics projects, we can use breadboard for prototyping and testing. But when we turn into industry, robotics or reliable application in our environments you will find that electronics circuits are printed and assembled on PCB so that A PCB is printed once. You need to get involved in the techniques of design and manufacturing to achieve desired function, size and cost.
 ## Course Content
 
