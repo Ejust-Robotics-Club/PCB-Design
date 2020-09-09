@@ -1,2 +1,2 @@
-# PCB-Design
-Online course provided by E-JUST-Robotics-Club.
+# PCB Design
+Online course provided by E-JUST Robotics Club.
