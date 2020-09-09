@@ -18,7 +18,6 @@ As you know in our electronics projects, we can use breadboard for prototyping a
 
 6. PCB manufacturing & Assembly the board
 
-## Course Instructors
-
+The content will be uploaded when courses are launched
   
 Return to [home page](https://ejust-robotics-club.github.io/Ejust-Robotics-Club/).
