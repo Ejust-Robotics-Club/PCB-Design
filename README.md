@@ -1,5 +1,4 @@
-# PCB Design
-Online course provided by E-JUST Robotics Club.
+
 # Welcome to Robotics Club Family
 **Important Note**: Please Stay safe and in good health and take necessary precautions and commit to the preventive measures.
 
