@@ -7,17 +7,17 @@ Online course provided by E-JUST Robotics Club.
 As you know in our electronics projects, we can use breadboard for prototyping and testing. But when we turn into industry, robotics or reliable application in our environments you will find that electronics circuits are printed and assembled on PCB so that A PCB is printed once. You need to get involved in the techniques of design and manufacturing to achieve desired function, size and cost.
 ## Course Content
 
-1.Brief introduction to Proteus software
+1. Brief introduction to Proteus software
 
-2.Schematic design
+2. Schematic design
 
-3.PCB layout
+3. PCB layout
 
-4.Plug and Play Concept 
+4. Plug and Play Concept 
 
-5.How to design Double layer PCB 
+5. How to design Double layer PCB 
 
-6.PCB manufacturing & Assembly the board
+6. PCB manufacturing & Assembly the board
 
 ## Course Instructors
 
